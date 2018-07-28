@@ -4,7 +4,7 @@ This repo authenticates an App with your Dropbox account and retrieves files fro
 
 ## Flow
 
-![flow](https://github.com/madeinouweland/html-javascript-dropbox-login/blob/master/flow.jpg)
+![flow](https://github.com/madeinouweland/html-javascript-dropbox-login/blob/master/flow.jpg | width=400)
 
 ## Create a dropbox app
 
